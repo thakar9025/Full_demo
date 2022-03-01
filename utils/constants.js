@@ -1,0 +1,21 @@
+module.exports = {
+    success: 200,
+    accepted: 202,
+    Forbidden: 403,
+    notFound:404,
+    unAuthorised: 401,
+    notFoundMessege: "Not Found!",
+    successMessege: "Successfully performed",
+    unsuccessMessege: "Something Went Wrong",
+    notReach: "Not Reach",
+    invalidDetails: "Invalid Email Or Password",
+    errorMessege: "An Error Occured",
+    Login: "Login Successfully",
+    notLogin: "Can Not Login",
+    reSync: "Re-sync Performed Successfully !",
+    databaseSuccess: "Database Connected Successfully!",
+    databaseError: "Error While Connecting Database!",
+    passwordError: "Password Is Invalid Or Incorrect",
+    serverPortMessege: "Server Is Running On Port:",
+    apiMessege: "Hello From My Api"
+ }
